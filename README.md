@@ -8,7 +8,7 @@ Setiap chapter dikerjakan dalam satu notebook Jupyter yang berisi:
 3. **Penjelasan teori** dan interpretasi hasil di bawah tiap sel kode.
 4. **Kesimpulan chapter** di bagian akhir.
 
-Pada Chapter 3 sampai 5, bagian *Hands-on exercises* / *Practical exercises* dari buku tidak dimasukkan; notebook hanya memuat recipe dan penjelasan konsepnya. Chapter 1 dan 2 dikerjakan lebih dulu: Chapter 2 masih memuat latihan akhir pipeline California Housing.
+
 
 ## Struktur repositori
 
