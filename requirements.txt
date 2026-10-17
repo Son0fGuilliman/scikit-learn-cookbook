@@ -1,8 +1,8 @@
 numpy
 pandas
 scipy
-scikit-learn>=1.6
+scikit-learn>=1.6,<1.10
 matplotlib
 seaborn
-jupyter
+jinja2
 ipykernel
